@@ -1,4 +1,4 @@
-import { Header } from '@/components/header'
+import { Header } from '../components/Header'
 import { BarChart, LineChart } from 'recharts'
 import { FaRunning, FaBriefcase, FaChartLine, FaUsers } from 'react-icons/fa'
 
