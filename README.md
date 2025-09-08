@@ -215,5 +215,10 @@ For questions and support:
 This project is developed for Smart India Hackathon 2024. All rights reserved.
 
 ---
+## Support
+
+For support, you can buy me a coffee
+
+<a href="https://buymeacoffee.com/i.awesomessp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 **Built with ❤️ for the fight against doping in sports** 🏃‍♂️⚡
